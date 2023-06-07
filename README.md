@@ -44,6 +44,3 @@ How to Install and Run the App:
         npm install or yarn install (Anyone as per your packagemanger need),
         cd ..
         npm run dev or yarn run dev (Anyone as per your packagemanger need)
-        
-    This will start the app for you 
-    If you face any problem please reach me through +91 8838159833
